@@ -11,6 +11,8 @@ Soooo... Let's practice and land the job folks! :boom: :boom: :boom:
 ---
 
 ## First Section - Junior Misc Frontend Questions 
+these questions were taken from this [FCC forum post](https://forum.freecodecamp.org/t/interview-questions-for-junior-front-end-web-developers/19542).
+
 - In the context of CSS styling can you explain what does ```display-style: inline-block``` stand for?
 - If you have a ```<ul>``` element with several ```<li>``` elements, how would you go about setting up these elements in a row by using HTML and CSS?
 - In CSS styling when would you use floats? How do they work?
