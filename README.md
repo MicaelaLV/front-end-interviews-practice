@@ -11,16 +11,16 @@ Soooo... Let's practice and land the job folks! :boom: :boom: :boom:
 ---
 
 ## First Section - Junior Misc Frontend Questions 
-- In the context of CSS styling can you explain what does display-style: inline-block stand for?
-- If you have a <ul> element with several <li> elements, how would you go about setting up these elements in a row by using HTML and CSS?
+- In the context of CSS styling can you explain what does ```display-style: inline-block``` stand for?
+- If you have a ```<ul>``` element with several ```<li>``` elements, how would you go about setting up these elements in a row by using HTML and CSS?
 - In CSS styling when would you use floats? How do they work?
-- When would you use: clear: both;?
+- When would you use: ```clear: both;```?
 - What is Bootstrap? When would you use it? How does its grid system work?
 - Explain the notion of responsive design and how it works? Use an example if you like.
 - What is a DOM? What do you know about it?
 - What is ECMAScript?
 - What is jQuery and what is it commonly used for?
-- What is the difference between == and === in JS?
+- What is the difference between ```==``` and ```===``` in JS?
 - Can you enumerate all JavaScript data types?
 - What is a callback function in JS and when would you use one?
 - What is the difference between undefined and null?
